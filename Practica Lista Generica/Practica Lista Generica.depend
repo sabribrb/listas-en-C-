@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1651015030 source:c:\users\sabri\documents\facu\1º cuat\ayed\code\practica lista generica\main.cpp
+	<iostream>
+	"milista.h"
+
+1651013207 c:\users\sabri\documents\facu\1º cuat\ayed\code\practica lista generica\milista.h
+	"dato.h"
+
+1651016393 source:c:\users\sabri\documents\facu\1º cuat\ayed\code\practica lista generica\milista.cpp
+	<cstdio>
+	<cstdlib>
+	"milista.h"
+
+1651014040 source:c:\users\sabri\documents\facu\1º cuat\ayed\code\practica lista generica\dato.cpp
+	<cstdio>
+	<cstdlib>
+	"dato.h"
+
+1651013616 c:\users\sabri\documents\facu\1º cuat\ayed\code\practica lista generica\dato.h
+
